@@ -1,0 +1,75 @@
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+  margin-top: 15px;
+}
+
+body {
+  background-image: url('../img/sayagata-400px.png');
+  background-repeat: repeat;
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+  max-width: 10%;
+}
+
+nav {
+  text-align: center;;
+  font-size: 20px;
+}
+
+nav a {
+  color: #795548;
+}
+
+nav a:hover {
+  color: #bd7d07;
+}
+
+main {
+
+}
+
+.image {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin-top: 25px;
+  font-size: medium;
+}
+
+h1 {
+  font-family: arial;
+}
+
+a {
+  text-decoration: none;
+  color: #795548;
+}
+
+a.current-nav {
+  text-decoration: underline;
+}
+
+p {
+  line-height: 25px;
+  font-family: "trebuchet ms";
+  text-indent: 25px;
+  text-align: justify;
+}
+
+img.emoticon{
+  max-width: 16px;
+}
+
+.img-edit {
+  max-width: 100px;
+}

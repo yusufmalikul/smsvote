@@ -1,0 +1,77 @@
+.container {
+  margin-top: 30px;
+}
+
+.vote-photo {
+  max-width: 50%;
+  display: block;
+  margin: auto;
+}
+
+.vote-table td {
+  padding: 15px 10px;
+  /*border: 1px solid red;*/
+}
+
+.vote-table {
+  border: 1px solid grey;
+  border-radius: 15px;
+  border-collapse: separate;
+  padding: 0px 15px;
+  /*table-layout: fixed;
+  width: 600px;*/
+  margin-top: 30px;
+}
+
+/*.vote-chart {
+  border: 1px solid grey;
+  text-align: center;
+}*/
+
+.vote-chart2 {
+  max-width: 400px;
+  text-align: center;
+  margin: auto;
+}
+
+/*.vote-candidate {
+  border: 1px solid grey;
+}*/
+
+.vote-persentage {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.vote-count {
+  font-size: 14px;
+}
+
+.vote-counter {
+  text-align: center;
+}
+
+
+.vote-number {
+  font-weight:900;
+  font-size: 25px;
+}
+
+.format-sms {
+  font-weight: bold;
+  font-size: 25px;
+  color: #373cff;
+}
+
+
+.countdown-running {
+  font-size: 20px;
+  color: red;
+  text-align: center;
+}
+
+.countdown-finish {
+  font-size: 20px;
+  color: red;
+  text-align: center;
+}
